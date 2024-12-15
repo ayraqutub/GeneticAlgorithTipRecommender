@@ -1,2 +1,2 @@
-# GeneticAlgorithTipRecommender
+# Genetic Algorithm Tip Recommender
 This report, in the form of a Jupyter Notebook, discusses the design and implementation of a genetic algorithm system that recommends a tip percentage based on a multi-dimensional analysis of food quality and service quality. The project builds on the "Tipper" example in the skfuzzy library and extends it by implementing a genetic tree structure, using the EasyGA library, allowing the program to evaluate individual attributes that collectively define food and service quality. These are then used to recommend a tip amount.
